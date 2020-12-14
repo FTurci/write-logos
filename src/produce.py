@@ -65,7 +65,7 @@ def print_logo(fontpath1, fontpath2,fontsize=30, width = 500,height = 200):
     )
 
 
-parser = argparse.ArgumentParser("Produce logo with given font")
+parser = argparse.ArgumentParser("Produce logo with two fonts.")
 parser.add_argument("fontpath1",help="Path to first font")
 parser.add_argument("fontpath2",help="Path to second font")
 parser.add_argument("--fontsize", default=30)
