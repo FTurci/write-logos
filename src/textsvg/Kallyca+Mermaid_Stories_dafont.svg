@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg baseProfile="full" height="200px" version="1.1" width="800px" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style type="text/css"><![CDATA[    
+     @font-face {font-family:Kallyca;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Kallyca.ttf');}
+     @font-face {font-family:Mermaid Stories;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Mermaid_Stories_dafont.ttf');}
+     ]]></style></defs><g style="font-size:60;"><text text-anchor="middle" x="50%" y="50%"><tspan font-family="Kallyca">e</tspan><tspan font-family="Mermaid Stories">X</tspan><tspan font-family="Kallyca">temporanea</tspan></text></g></svg>
