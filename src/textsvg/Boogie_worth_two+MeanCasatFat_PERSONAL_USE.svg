@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg baseProfile="full" height="200px" version="1.1" width="800px" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style type="text/css"><![CDATA[    
+     @font-face {font-family:Boogie worth two;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Boogie_worth_two.ttf');}
+     @font-face {font-family:Mean Casat Fat PERSONAL USE;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/MeanCasatFat_PERSONAL_USE.ttf');}
+     ]]></style></defs><g style="font-size:60;"><text text-anchor="middle" x="50%" y="50%"><tspan font-family="Boogie worth two">e</tspan><tspan font-family="Mean Casat Fat PERSONAL USE">X</tspan><tspan font-family="Boogie worth two">temporanea</tspan></text></g></svg>

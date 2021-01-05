@@ -25,8 +25,8 @@ def parse_info(info):
 
 def print_logo(fontpath1, fontpath2,fontsize=30, width = 500,height = 200, white=True): 
     
-    fontpath1 = str(pathlib.Path(fontpath1).resolve()) 
-    fontpath2 = str(pathlib.Path(fontpath2).resolve())
+    fontpath1 = pathlib.PurePosixPath(pathlib.Path(fontpath1).resolve())
+    fontpath2 = pathlib.PurePosixPath(pathlib.Path(fontpath2).resolve())
     print (fontpath1)
     print (fontpath2)  
 
