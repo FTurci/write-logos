@@ -25,16 +25,17 @@ def parse_info(info):
 
 def print_logo(fontpath1, fontpath2,fontsize=30, width = 500,height = 200, white=True): 
     
-    fontpath1 = pathlib.PurePosixPath(pathlib.Path(fontpath1).resolve())
-    fontpath2 = pathlib.PurePosixPath(pathlib.Path(fontpath2).resolve())
+    print("p1", fontpath1,pathlib.PurePosixPath(fontpath1))
+    fontpath1 = pathlib.Path(pathlib.PurePosixPath(fontpath1)).resolve()
+    fontpath2 = pathlib.Path(pathlib.Path(fontpath2)).resolve()
     print (fontpath1)
     print (fontpath2)  
 
     fontname1 = os.path.basename(fontpath1).split('.ttf')[0]
     fontname2 = os.path.basename(fontpath2).split('.ttf')[0]
     # get the info on the font
-    otfinfo1 = subprocess.check_output(f'otfinfo --info {fontpath1}', shell=True).decode("utf-8") 
-    otfinfo2 = subprocess.check_output(f'otfinfo --info {fontpath2}', shell=True).decode("utf-8") 
+    otfinfo1 = subprocess.check_output(f'otfinfo --info "{fontpath1}"', shell=True).decode("utf-8") 
+    otfinfo2 = subprocess.check_output(f'otfinfo --info "{fontpath2}"', shell=True).decode("utf-8") 
     # print(info)
     info1 = parse_info(otfinfo1)
     info2 = parse_info(otfinfo2)
@@ -63,33 +64,33 @@ def print_logo(fontpath1, fontpath2,fontsize=30, width = 500,height = 200, white
     # settings are valid for all text added to 'g'
     dwg.add(g)
     dwg.save()
-    # trick to convert the svg with fonts to a path: usingh inkscape
+    # trick to convert the svg with fonts to a path: using inkscape
     subprocess.call(
-        f"inkscape textsvg/{fontname1}+{fontname2}.svg --export-text-to-path --export-plain-svg -o pathsvg/{fontname1}+{fontname2}.svg", shell=True
+        f'inkscape "textsvg/{fontname1}+{fontname2}.svg" --export-text-to-path --export-plain-svg -o "pathsvg/{fontname1}+{fontname2}.svg"', shell=True
     )
     subprocess.call(
-        f"inkscape  pathsvg/{fontname1}+{fontname2}.svg -o pngs/{fontname1}+{fontname2}.png", shell=True
+        f'inkscape  "pathsvg/{fontname1}+{fontname2}.svg" -o "pngs/{fontname1}+{fontname2}.png"', shell=True
     )
     # add white background
     if white:
         subprocess.call(
-        f"convert -flatten  pngs/{fontname1}+{fontname2}.png pngs/{fontname1}+{fontname2}.png", shell=True
+        f'convert -flatten  "pngs/{fontname1}+{fontname2}.png" "pngs/{fontname1}+{fontname2}.png"', shell=True
     )
 
     #test with the first 10 fonts
-fonts = glob.glob("fonts/*")
-
+# fonts = [fonts2f for f in os.listdir("fonts2") if f.endswith(".ttf") ]
+fonts=glob.glob("fonts2/*.ttf")
+print(fonts)
 # to create combinations:
-# combinations = itertools.combinations(fonts,2)
+# combinationbs = itertools.combinations(fonts,2)
 # # print (list(combinations))
 # for a,b in combinations:
 #     print(a,b)
 #     print_logo(a,b)
 
 permutation = np.random.permutation(fonts)
-N = 100
+N = 1
 x = permutation[:N]
 rest = permutation[N:N+N]
-
 for a,b in zip(x,rest):
     print_logo(a,b,fontsize=60, width=800)
