@@ -2,4 +2,7 @@
 
 Write to SVG with a custom font.
 
-The program writes first an svg that includes a reference to the local font (`in.svg`) and then uses `inkscape` to convert the svg to a pure path `out.svg`.
+There are two programs that are useful at this stage in the folder `src`
+
+- `produce.py` which combines two given fonts to generate a logo
+- `writer.py` which generates a random selection of logos
