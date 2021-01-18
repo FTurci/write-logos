@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg16"
+   width="800px"
+   version="1.1"
+   height="200px">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2"
+       type="text/css"><![CDATA[    
+     @font-face {font-family:Basier Circle SemiBold;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_E_TEMPORANEA/BasierCircle-SemiBold.otf');}
+     @font-face {font-family:Seven Segment;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_X/SevenSegment.ttf');}
+     ]]></style>
+  </defs>
+  <g
+     id="g14"
+     style="font-size:60px">
+    <g
+       style="text-anchor:middle"
+       id="text12"
+       aria-label="EXTEMPORANEA">
+      <path
+         id="path22"
+         style="font-family:'Basier Circle SemiBold';letter-spacing:0.075em"
+         d="m 140.91578,100 h 29.1 v -7.32 h -20.88 V 82 h 19.02 v -7.32 h -19.02 v -9.3 h 20.88 V 58 h -29.1 z" />
+      <path
+         id="path24"
+         style="font-family:'Seven Segment';letter-spacing:0.05em"
+         d="m 180.8418,97.539062 6.62109,-16.787109 2.46094,-1.083984 1.08398,2.490234 -6.62109,16.757813 L 181.92578,100 Z m 0,-37.11914 1.08398,-2.490235 2.46094,1.083985 6.62109,16.787109 -1.08398,2.460938 -2.46094,-1.083985 z m 12.74414,21.738281 1.08398,-2.490234 2.46094,1.083984 6.62109,16.787109 L 202.66797,100 200.17773,98.916016 Z m 0,-6.357422 6.59179,-16.787109 2.49024,-1.083985 1.08398,2.490235 -6.62109,16.757812 -2.46094,1.083985 z" />
+      <path
+         id="path26"
+         style="font-family:'Basier Circle SemiBold';letter-spacing:0.075em"
+         d="m 223.97547,100 h 8.28 V 65.44 h 12.36 V 58 h -33 v 7.44 h 12.36 z" />
+      <path
+         id="path28"
+         style="font-family:'Basier Circle SemiBold';letter-spacing:0.075em"
+         d="m 255.10328,100 h 29.1 v -7.32 h -20.88 V 82 h 19.02 v -7.32 h -19.02 v -9.3 h 20.88 V 58 h -29.1 z" />
+      <path
+         id="path30"
+         style="font-family:'Basier Circle SemiBold';letter-spacing:0.075em"
+         d="m 296.16578,100 h 7.92 V 70.84 h 0.24 l 13.2,22.14 h 0.6 l 13.2,-21.96 h 0.24 V 100 h 7.92 V 58 h -9 l -12.48,21.06 h -0.24 L 305.28578,58 h -9.12 z" />
+      <path
+         id="path32"
+         style="font-family:'Basier Circle SemiBold';letter-spacing:0.075em"
+         d="m 353.51734,100 h 8.22 V 85.6 h 9.78 c 8.46,0 13.86,-5.88 13.86,-13.92 0,-7.8 -5.28,-13.68 -13.86,-13.68 h -18 z m 8.22,-21.78 v -12.9 h 8.28 c 4.38,0 6.96,2.28 6.96,6.36 0,4.38 -2.4,6.54 -6.96,6.54 z" />
+      <path
+         id="path34"
+         style="font-family:'Basier Circle SemiBold';letter-spacing:0.075em"
+         d="m 414.38359,100.54 c 13.32,0 19.86,-9.54 19.86,-21.54 0,-12.06 -6.54,-21.54 -19.86,-21.54 -13.38,0 -19.86,9.48 -19.86,21.54 0,12 6.48,21.54 19.86,21.54 z m 0,-7.5 c -7.8,0 -11.46,-5.58 -11.46,-14.04 0,-8.46 3.6,-14.04 11.46,-14.04 7.8,0 11.46,5.58 11.46,14.04 0,8.46 -3.66,14.04 -11.46,14.04 z" />
+      <path
+         id="path36"
+         style="font-family:'Basier Circle SemiBold';letter-spacing:0.075em"
+         d="m 469.83766,83.68 c 5.16,-1.86 8.46,-6.42 8.46,-12.54 0,-7.14 -5.16,-13.14 -14.04,-13.14 h -18.42 v 42 h 8.22 V 84.64 h 7.08 l 9.66,15.36 h 9.48 v -0.6 z m -15.78,-18.3 h 9.78 c 4.14,0 6,2.64 6,5.82 0,3.36 -1.8,6.12 -6,6.12 h -9.78 z" />
+      <path
+         id="path38"
+         style="font-family:'Basier Circle SemiBold';letter-spacing:0.075em"
+         d="m 511.89297,58 h -10.44 l -14.7,41.4 v 0.6 h 8.64 l 2.88,-8.82 h 16.44 l 2.88,8.82 h 9.06 v -0.6 z m -11.22,25.92 5.7,-17.52 h 0.24 l 5.7,17.52 z" />
+      <path
+         id="path40"
+         style="font-family:'Basier Circle SemiBold';letter-spacing:0.075em"
+         d="m 536.75172,100 h 8.1 V 71.02 h 0.24 l 17.16,28.98 h 9.6 V 58 h -8.16 v 29.16 h -0.24 L 546.29172,58 h -9.54 z" />
+      <path
+         id="path42"
+         style="font-family:'Basier Circle SemiBold';letter-spacing:0.075em"
+         d="m 585.78297,100 h 29.1 v -7.32 h -20.88 V 82 h 19.02 v -7.32 h -19.02 v -9.3 h 20.88 V 58 h -29.1 z" />
+      <path
+         id="path44"
+         style="font-family:'Basier Circle SemiBold';letter-spacing:0.075em"
+         d="m 648.20547,58 h -10.44 l -14.7,41.4 v 0.6 h 8.64 l 2.88,-8.82 h 16.44 l 2.88,8.82 h 9.06 v -0.6 z m -11.22,25.92 5.7,-17.52 h 0.24 l 5.7,17.52 z" />
+    </g>
+  </g>
+</svg>

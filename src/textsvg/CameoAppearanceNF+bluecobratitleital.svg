@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="200px" version="1.1" width="500px" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style type="text/css"><![CDATA[    
-     @font-face {font-family:Cameo Appearance NF;
-     src: url('/Users/francesco/Repos/write-logos/src/fonts/CameoAppearanceNF.ttf');}
-     @font-face {font-family:Blue Cobra Title Italic;
-     src: url('/Users/francesco/Repos/write-logos/src/fonts/bluecobratitleital.ttf');}
-     ]]></style></defs><g style="font-size:60;"><text text-anchor="middle" x="50%" y="50%"><tspan font-family="Cameo Appearance NF">e</tspan><tspan font-family="Blue Cobra Title Italic">X</tspan><tspan font-family="Cameo Appearance NF">temporanea</tspan></text></g></svg>

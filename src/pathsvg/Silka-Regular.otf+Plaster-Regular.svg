@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg16"
+   width="800px"
+   version="1.1"
+   height="200px">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2"
+       type="text/css"><![CDATA[    
+     @font-face {font-family:Silka;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_E_TEMPORANEA/Silka-Regular.otf');}
+     @font-face {font-family:Plaster;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_X/Plaster-Regular.ttf');}
+     ]]></style>
+  </defs>
+  <g
+     id="g14"
+     style="font-size:60px">
+    <g
+       style="text-anchor:middle"
+       id="text12"
+       aria-label="EXTEMPORANEA">
+      <path
+         id="path22"
+         style="font-family:Silka;letter-spacing:0.075em"
+         d="m 140.59375,100 h 24.6 v -4.38 h -19.74 V 80.8 h 16.44 v -4.38 h -16.44 V 62.44 h 19.08 V 58 h -23.94 z" />
+      <path
+         id="path24"
+         style="font-family:Plaster;letter-spacing:0.05em"
+         d="M 178.9082,74.306641 Q 176.50586,70.820312 176.50586,64.375 v -4.248047 h 11.54297 l 21.79687,23.876953 q 1.84571,2.050781 2.46094,3.457031 0.61523,1.40625 0.9082,2.578125 0.64453,2.34375 0.64453,5.771485 V 100 h -11.2207 L 178.99609,74.306641 Z m 22.26563,-1.669922 q 0,-8.056641 2.49023,-10.488282 1.31836,-1.289062 3.42774,-1.640625 2.13867,-0.380859 5.18554,-0.380859 h 1.58203 v 4.628906 q 0,6.240235 -3.28125,8.34961 -2.34375,1.523437 -7.88085,1.523437 h -1.52344 z m -24.66797,22.792968 q 0,-6.240234 3.28125,-8.378906 2.34375,-1.49414 7.88086,-1.49414 h 1.52344 v 1.992187 q 0,8.144531 -2.49024,10.458984 -1.69922,1.582032 -4.95117,1.875 Q 180.10937,100 178.08789,100 h -1.58203 z" />
+      <path
+         id="path26"
+         style="font-family:Silka;letter-spacing:0.075em"
+         d="m 235.36656,100 h 4.86 V 62.44 h 12.84 V 58 h -30.54 v 4.44 h 12.84 z" />
+      <path
+         id="path28"
+         style="font-family:Silka;letter-spacing:0.075em"
+         d="m 265.32812,100 h 24.60001 v -4.38 h -19.74 V 80.8 h 16.43999 V 76.42 H 270.18813 V 62.44 h 19.07999 V 58 h -23.94 z" />
+      <path
+         id="path30"
+         style="font-family:Silka;letter-spacing:0.075em"
+         d="m 303.46094,100 h 4.68 V 68.68 h 0.36 l 13.98,31.32 h 5.52 l 12.78,-31.32 h 0.36 V 100 h 4.68 V 58 h -5.34 l -15.06,36.66 h -0.36 L 308.80094,58 h -5.34 z" />
+      <path
+         id="path32"
+         style="font-family:Silka;letter-spacing:0.075em"
+         d="m 362.33594,100 h 4.86 V 83.38 h 10.2 c 7.38,0 12.84,-5.22 12.84,-12.78 0,-7.62 -5.22,-12.6 -12.84,-12.6 h -15.06 z m 4.86,-20.94 V 62.32 h 9.78 c 5.04,0 8.28,3.48 8.28,8.28 0,4.86 -3.24,8.46 -8.28,8.46 z" />
+      <path
+         id="path34"
+         style="font-family:Silka;letter-spacing:0.075em"
+         d="m 421.82406,100.78 c 12.54,0 21.78,-9.42 21.78,-21.78 0,-12.24 -9.18,-21.78 -21.72,-21.78 -12.48,0 -21.72,9.42 -21.72,21.78 0,12.48 9.18,21.78 21.66,21.78 z m 0.06,-4.56 c -9.6,0 -16.68,-7.26 -16.68,-17.22 0,-9.84 7.08,-17.22 16.68,-17.22 9.6,0 16.68,7.38 16.68,17.22 0,9.96 -7.08,17.22 -16.68,17.22 z" />
+      <path
+         id="path36"
+         style="font-family:Silka;letter-spacing:0.075em"
+         d="m 457.11719,100 h 4.86 V 83.02 h 9.18 l 9.3,16.98 h 5.64 l -9.84,-17.46 c 4.74,-1.38 8.76,-5.94 8.76,-12.12 0,-7.38 -5.1,-12.42 -13.68,-12.42 h -14.22 z m 4.86,-21.3 V 62.32 h 9.06 c 5.94,0 8.94,3.66 8.94,8.1 0,5.52 -3.72,8.28 -8.64,8.28 z" />
+      <path
+         id="path38"
+         style="font-family:Silka;letter-spacing:0.075em"
+         d="m 494.55156,100 h 5.1 l 3.78,-9.96 h 20.28 l 3.78,9.96 h 5.1 l -16.14,-42 h -5.7 z m 10.56,-14.4 8.28,-21.96 h 0.36 l 8.28,21.96 z" />
+      <path
+         id="path40"
+         style="font-family:Silka;letter-spacing:0.075em"
+         d="m 544.28125,100 h 4.86 V 66.46 h 0.36 l 21.72,33.54 h 5.16 V 58 h -4.8 v 33.54 h -0.36 L 549.26125,58 h -4.98 z" />
+      <path
+         id="path42"
+         style="font-family:Silka;letter-spacing:0.075em"
+         d="m 592.84375,100 h 24.6 v -4.38 h -19.74 V 80.8 h 16.44 v -4.38 h -16.44 V 62.44 h 19.08 V 58 h -23.94 z" />
+      <path
+         id="path44"
+         style="font-family:Silka;letter-spacing:0.075em"
+         d="m 626.17656,100 h 5.1 l 3.78,-9.96 h 20.28 l 3.78,9.96 h 5.1 l -16.14,-42 h -5.7 z m 10.56,-14.4 8.28,-21.96 h 0.36 l 8.28,21.96 z" />
+    </g>
+  </g>
+</svg>

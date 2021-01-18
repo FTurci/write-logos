@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg16"
+   width="800px"
+   version="1.1"
+   height="200px">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2"
+       type="text/css"><![CDATA[    
+     @font-face {font-family:Geomanist;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_E_TEMPORANEA/Geomanist-Book.otf');}
+     @font-face {font-family:Seven Segment;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_X/SevenSegment.ttf');}
+     ]]></style>
+  </defs>
+  <g
+     id="g14"
+     style="font-size:60px">
+    <g
+       style="text-anchor:middle"
+       id="text12"
+       aria-label="EXTEMPORANEA">
+      <path
+         id="path22"
+         style="font-family:Geomanist;letter-spacing:0.075em"
+         d="m 163.93469,100 h 21.36 v -6 h -14.7 V 81.64 h 12.24 V 75.7 h -12.24 V 64 h 14.1 v -6 h -20.76 z" />
+      <path
+         id="path24"
+         style="font-family:'Seven Segment';letter-spacing:0.05em"
+         d="m 196.36914,97.539062 6.62109,-16.787109 2.46094,-1.083984 1.08399,2.490234 -6.6211,16.757813 L 197.45312,100 Z m 0,-37.11914 1.08398,-2.490235 2.46094,1.083985 6.6211,16.787109 -1.08399,2.460938 -2.46094,-1.083985 z m 12.74414,21.738281 1.08399,-2.490234 2.46093,1.083984 6.6211,16.787109 L 218.19531,100 215.70508,98.916016 Z m 0,-6.357422 6.5918,-16.787109 2.49023,-1.083985 1.08399,2.490235 -6.6211,16.757812 -2.46093,1.083985 z" />
+      <path
+         id="path26"
+         style="font-family:Geomanist;letter-spacing:0.075em"
+         d="m 237.64281,100 h 6.66 V 64 h 10.56 v -6 h -27.78 v 6 h 10.56 z" />
+      <path
+         id="path28"
+         style="font-family:Geomanist;letter-spacing:0.075em"
+         d="m 265.46594,100 h 21.36 v -6 h -14.7 V 81.64 h 12.24 V 75.7 h -12.24 V 64 h 14.1 v -6 h -20.76 z" />
+      <path
+         id="path30"
+         style="font-family:Geomanist;letter-spacing:0.075em"
+         d="m 307.19687,58 h -8.58 v 42 h 6.42 V 67.48 l 12.54,28.8 h 6.36 l 12.54,-28.8 V 100 h 6.42001 V 58 h -8.58001 l -13.56,30.66 z" />
+      <path
+         id="path32"
+         style="font-family:Geomanist;letter-spacing:0.075em"
+         d="m 356.14562,100 h 6.66001 V 83.38 h 5.57999 c 7.62,0 13.38,-5.34 13.38,-12.78 0,-7.56 -5.51999,-12.6 -13.44,-12.6 h -12.18 z m 6.66001,-22.44 V 63.82 h 4.79999 c 4.32001,0 7.32001,2.64 7.32001,6.78 0,4.2 -3,6.96 -7.38001,6.96 z" />
+      <path
+         id="path34"
+         style="font-family:Geomanist;letter-spacing:0.075em"
+         d="m 389.82906,79 c 0,12.42 9.06,21.78 21.6,21.78 12.6,0 21.66,-9.42 21.66,-21.78 0,-12.24 -9.06,-21.78 -21.6,-21.78 -12.54,0 -21.66,9.48 -21.66,21.78 z m 6.96,0 c 0,-8.88 6.24,-15.54 14.7,-15.54 8.4,0 14.7,6.66 14.7,15.54 0,9 -6.3,15.54 -14.7,15.54 -8.46,0 -14.7,-6.54 -14.7,-15.54 z" />
+      <path
+         id="path36"
+         style="font-family:Geomanist;letter-spacing:0.075em"
+         d="m 444.01281,100 h 6.66 V 82.66 h 5.82 l 8.82,17.34 h 7.38 l -10.2,-18.84 c 4.26,-1.74 6.84,-5.94 6.84,-10.8 0,-7.02 -5.04,-12.36 -14.04,-12.36 h -11.28 z m 6.66,-23.04 V 63.82 h 4.5 c 4.86,0 7.26,2.64 7.26,6.54 0,4.26 -3.06,6.6 -7.26,6.6 z" />
+      <path
+         id="path38"
+         style="font-family:Geomanist;letter-spacing:0.075em"
+         d="m 505.17719,87.76 4.32,12.24 h 6.72 l -15.3,-42 h -6.9 l -15.3,42 h 6.72 l 4.38,-12.24 z m -1.86,-5.58 h -11.64 l 5.82,-16.98 z" />
+      <path
+         id="path40"
+         style="font-family:Geomanist;letter-spacing:0.075em"
+         d="m 525.72625,100 h 6.6 V 68.98 l 20.64,31.02 h 6.6 V 58 h -6.54 v 31.2 l -20.58,-31.2 h -6.72 z" />
+      <path
+         id="path42"
+         style="font-family:Geomanist;letter-spacing:0.075em"
+         d="m 572.82531,100 h 21.36 v -6 h -14.7 V 81.64 h 12.24 V 75.7 h -12.24 V 64 h 14.1 v -6 h -20.76 z" />
+      <path
+         id="path44"
+         style="font-family:Geomanist;letter-spacing:0.075em"
+         d="m 628.71625,87.76 4.32,12.24 h 6.72 l -15.3,-42 h -6.9 l -15.3,42 h 6.72 l 4.38,-12.24 z m -1.86,-5.58 h -11.64 l 5.82,-16.98 z" />
+    </g>
+  </g>
+</svg>

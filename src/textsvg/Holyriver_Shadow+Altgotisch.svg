@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="200px" version="1.1" width="500px" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style type="text/css"><![CDATA[    
-     @font-face {font-family:Holyriver Shadow;
-     src: url('/Users/francesco/Repos/write-logos/src/fonts/Holyriver_Shadow.ttf');}
-     @font-face {font-family:CAT Altgotisch;
-     src: url('/Users/francesco/Repos/write-logos/src/fonts/Altgotisch.ttf');}
-     ]]></style></defs><g style="font-size:60;"><text text-anchor="middle" x="50%" y="50%"><tspan font-family="Holyriver Shadow">e</tspan><tspan font-family="CAT Altgotisch">X</tspan><tspan font-family="Holyriver Shadow">temporanea</tspan></text></g></svg>

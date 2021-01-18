@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg16"
+   width="800px"
+   version="1.1"
+   height="200px">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2"
+       type="text/css"><![CDATA[    
+     @font-face {font-family:Open Sauce One Black;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_E_TEMPORANEA/OpenSauceOne-Black.ttf');}
+     @font-face {font-family:Monoton;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_X/Monoton-Regular.ttf');}
+     ]]></style>
+  </defs>
+  <g
+     id="g14"
+     style="font-size:60px">
+    <g
+       style="text-anchor:middle"
+       id="text12"
+       aria-label="EXTEMPORANEA">
+      <path
+         id="path22"
+         style="font-family:'Open Sauce One Black';letter-spacing:0.075em"
+         d="m 148.24281,100 h -31.26 V 54.22 h 31.26 v 9.6 h -20.52 v 8.52 h 18.54 v 9.54 h -18.54 v 8.52 h 20.52 z" />
+      <path
+         id="path24"
+         style="font-family:Monoton;letter-spacing:0.05em"
+         d="m 172.69727,73.779297 -1.25977,1.992187 -15.26367,-24.287109 h 2.49023 z m 10.40039,15.849609 1.23046,-1.992187 L 192.12109,100 h -2.49023 z m -7.91016,-19.77539 -1.25977,1.96289 -12.77343,-20.332031 h 2.46093 z m 10.40039,15.820312 1.23047,-1.992187 L 197.10156,100 h -2.49023 z m -7.91016,-19.804687 -1.23046,1.96289 -10.3125,-16.347656 h 2.49023 z m 10.42969,15.820312 1.23047,-1.992187 L 202.11133,100 h -2.49024 z m -7.93945,-19.775391 -1.23047,1.992188 -7.82227,-12.421875 h 2.49024 z m 10.40039,15.820313 1.23047,-1.992188 L 207.0918,100 h -2.49024 z m 12.56836,-26.25 h 2.49023 L 175.09961,100 h -2.49024 z m -4.95117,0 h 2.46093 L 170.11914,100 h -2.49023 z m -5.00977,0 h 2.49024 L 165.10937,100 h -2.49023 z m -4.98047,0 h 2.49024 L 160.12891,100 h -2.49024 z" />
+      <path
+         id="path26"
+         style="font-family:'Open Sauce One Black';letter-spacing:0.075em"
+         d="m 235.00281,100 h -10.74 V 63.82 h -12.9 v -9.6 h 36.54 v 9.6 h -12.9 z" />
+      <path
+         id="path28"
+         style="font-family:'Open Sauce One Black';letter-spacing:0.075em"
+         d="m 287.74281,100 h -31.26 V 54.22 h 31.26 v 9.6 h -20.52 v 8.52 h 18.54 v 9.54 h -18.54 v 8.52 h 20.52 z" />
+      <path
+         id="path30"
+         style="font-family:'Open Sauce One Black';letter-spacing:0.075em"
+         d="M 309.10562,100 H 298.36563 V 54.22 h 17.27999 l 7.56,32.94 7.5,-32.94 h 17.34 V 100 H 337.30563 V 62.8 l -8.88,37.2 h -10.44 l -8.88001,-36.96 z" />
+      <path
+         id="path32"
+         style="font-family:'Open Sauce One Black';letter-spacing:0.075em"
+         d="M 359.81875,100 V 54.22 h 21.6 q 6.72,0 10.56,3.36 3.9,3.3 3.9,10.44 0,4.44 -1.86,7.68 -1.8,3.24 -5.1,4.98 -3.3,1.68 -7.5,1.68 h -10.86 V 100 Z m 20.1,-26.94 q 5.34,0 5.34,-4.68 0,-2.22 -1.38,-3.36 -1.32,-1.2 -3.96,-1.2 h -9.36 v 9.24 z" />
+      <path
+         id="path34"
+         style="font-family:'Open Sauce One Black';letter-spacing:0.075em"
+         d="m 426.51437,101.02 q -7.5,0 -12.66,-3.24 -5.16,-3.24 -7.68,-8.64 -2.51999,-5.46 -2.51999,-12.06 0,-6.6 2.51999,-12 2.52,-5.4 7.62,-8.58 5.16001,-3.24 12.72,-3.24 7.5,0 12.6,3.24 5.16001,3.18 7.68,8.58 2.52,5.4 2.52,12 0,6.6 -2.52,12.06 -2.51999,5.4 -7.68,8.64 -5.1,3.24 -12.6,3.24 z m 0,-9.6 q 5.34,0 8.4,-3.84 3.06,-3.9 3.06,-10.5 0,-6.54 -3.06,-10.38 -3.06,-3.84 -8.4,-3.84 -5.34,0 -8.46,3.84 -3.06,3.84 -3.06,10.38 0,6.6 3.06,10.5 3.12,3.84 8.46,3.84 z" />
+      <path
+         id="path36"
+         style="font-family:'Open Sauce One Black';letter-spacing:0.075em"
+         d="m 496.84469,100 h -11.34 l -6.66,-17.64 h -8.7 V 100 h -10.74 V 54.22 h 21.6 q 6.72,0 10.56,3.36 3.9,3.3 3.9,10.44 0,4.26 -1.74,7.44 -1.74,3.18 -4.8,4.92 z m -26.7,-36.18 v 9.24 h 9.36 q 5.34,0 5.34,-4.68 0,-2.22 -1.38,-3.36 -1.32,-1.2 -3.96,-1.2 z" />
+      <path
+         id="path38"
+         style="font-family:'Open Sauce One Black';letter-spacing:0.075em"
+         d="m 514.36375,100 h -11.4 l 15.66,-45.78 h 11.64 l 15.66,45.78 h -11.4 l -2.46,-8.22 h -15.24 z m 10.08,-33.84 -4.8,16.32 h 9.6 z" />
+      <path
+         id="path40"
+         style="font-family:'Open Sauce One Black';letter-spacing:0.075em"
+         d="m 564.92594,100 h -10.74 V 54.22 h 10.92 l 17.58,27.78 V 54.22 h 10.74 V 100 h -10.92 l -17.58,-27.96 z" />
+      <path
+         id="path42"
+         style="font-family:'Open Sauce One Black';letter-spacing:0.075em"
+         d="m 636.35219,100 h -31.26 V 54.22 h 31.26 v 9.6 h -20.52 v 8.52 h 18.54 v 9.54 h -18.54 v 8.52 h 20.52 z" />
+      <path
+         id="path44"
+         style="font-family:'Open Sauce One Black';letter-spacing:0.075em"
+         d="m 654.895,100 h -11.4 l 15.66,-45.78 h 11.64 l 15.66,45.78 h -11.4 l -2.46,-8.22 h -15.24 z m 10.08,-33.84 -4.8,16.32 h 9.6 z" />
+    </g>
+  </g>
+</svg>

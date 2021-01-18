@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg16"
+   width="800px"
+   version="1.1"
+   height="200px">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2"
+       type="text/css"><![CDATA[    
+     @font-face {font-family:Gourmet Hearth;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_E_TEMPORANEA/GourmetHearthdf.otf');}
+     @font-face {font-family:MADE Soulmaze Outline;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_X/MADE_Outline.otf');}
+     ]]></style>
+  </defs>
+  <g
+     id="g14"
+     style="font-size:60px">
+    <g
+       style="text-anchor:middle"
+       id="text12"
+       aria-label="EXTEMPORANEA">
+      <path
+         id="path22"
+         style="font-family:'Gourmet Hearth';letter-spacing:0.075em"
+         d="m 213.75391,60.449219 v 7.324218 H 197.64062 V 76.5625 h 13.1836 v 7.324219 h -13.1836 v 8.789062 h 16.11329 V 100 h -23.4375 V 60.449219 Z" />
+      <path
+         id="path24"
+         style="font-family:'MADE Soulmaze Outline';letter-spacing:0.05em"
+         d="m 260.80703,78.16 8.88,-20.16 h -18.18 l -4.08,13.68 h -0.54 l -4.08,-13.68 h -18.18 l 8.88,20.16 -9.48,21.84 h 18.78 l 4.08,-13.68 h 0.54 l 4.08,13.68 h 18.78 z m -12.96,7.62 h -1.38 l -4.08,13.62 h -17.52 l 9.24,-21.24 -8.64,-19.62 h 16.92 l 4.08,13.68 h 1.38 l 4.08,-13.68 h 16.92 l -8.64,19.62 9.24,21.24 h -17.52 z" />
+      <path
+         id="path26"
+         style="font-family:'Gourmet Hearth';letter-spacing:0.075em"
+         d="m 298.12891,60.449219 v 7.324218 h -8.05664 V 100 h -7.32422 V 67.773437 h -8.05664 v -7.324218 z" />
+      <path
+         id="path28"
+         style="font-family:'Gourmet Hearth';letter-spacing:0.075em"
+         d="m 330.51953,60.449219 v 7.324218 H 314.40625 V 76.5625 h 13.18359 v 7.324219 h -13.18359 v 8.789062 h 16.11328 V 100 h -23.4375 V 60.449219 Z" />
+      <path
+         id="path30"
+         style="font-family:'Gourmet Hearth';letter-spacing:0.075em"
+         d="M 346.79687,82.421875 V 100 h -7.32421 V 60.449219 h 8.78906 l 7.32422,28.242187 7.32422,-28.242187 h 8.78906 V 100 H 364.375 V 82.421875 L 358.51562,100 h -5.85937 z" />
+      <path
+         id="path32"
+         style="font-family:'Gourmet Hearth';letter-spacing:0.075em"
+         d="m 396.76562,72.167969 q 0,-4.394532 -4.39453,-4.394532 h -4.39453 V 76.5625 h 4.39453 q 4.39453,0 4.39453,-4.394531 z m -4.39453,-11.71875 q 11.71875,0 11.71875,11.71875 0,11.71875 -11.71875,11.71875 h -4.39453 V 100 h -7.32422 V 60.449219 Z" />
+      <path
+         id="path34"
+         style="font-family:'Gourmet Hearth';letter-spacing:0.075em"
+         d="m 413.04297,72.167969 q 0,-11.71875 11.71875,-11.71875 11.71875,0 11.71875,11.71875 V 88.28125 Q 436.48047,100 424.76172,100 413.04297,100 413.04297,88.28125 Z m 11.71875,-4.394532 q -4.39453,0 -4.39453,4.394532 V 88.28125 q 0,4.394531 4.39453,4.394531 4.39453,0 4.39453,-4.394531 V 72.167969 q 0,-4.394532 -4.39453,-4.394532 z" />
+      <path
+         id="path36"
+         style="font-family:'Gourmet Hearth';letter-spacing:0.075em"
+         d="m 457.15234,60.449219 q 11.71875,0 11.71875,11.71875 0,6.386718 -3.48632,9.287109 L 470.33594,100 h -7.32422 l -4.30664,-16.171875 q -0.76172,0.05859 -1.55274,0.05859 h -4.39453 V 100 h -7.32422 V 60.449219 Z m 4.39453,11.71875 q 0,-4.394532 -4.39453,-4.394532 h -4.39453 V 76.5625 h 4.39453 q 4.39453,0 4.39453,-4.394531 z" />
+      <path
+         id="path38"
+         style="font-family:'Gourmet Hearth';letter-spacing:0.075em"
+         d="M 497.04297,94.140625 H 486.90625 L 485.38281,100 h -7.61719 l 10.25391,-39.550781 h 7.91016 L 506.18359,100 h -7.61718 z m -8.23242,-7.324219 h 6.32812 l -3.16406,-12.246094 z" />
+      <path
+         id="path40"
+         style="font-family:'Gourmet Hearth';letter-spacing:0.075em"
+         d="M 520.9375,77.5 V 100 h -7.32422 V 60.449219 h 7.91016 l 9.66797,22.5 v -22.5 h 7.32421 V 100 h -7.91015 z" />
+      <path
+         id="path42"
+         style="font-family:'Gourmet Hearth';letter-spacing:0.075em"
+         d="m 570.84766,60.449219 v 7.324218 H 554.73437 V 76.5625 h 13.1836 v 7.324219 h -13.1836 v 8.789062 h 16.11329 V 100 h -23.4375 V 60.449219 Z" />
+      <path
+         id="path44"
+         style="font-family:'Gourmet Hearth';letter-spacing:0.075em"
+         d="M 597.61328,94.140625 H 587.47656 L 585.95312,100 h -7.61718 l 10.2539,-39.550781 H 596.5 L 606.75391,100 h -7.61719 z m -8.23242,-7.324219 h 6.32812 l -3.16406,-12.246094 z" />
+    </g>
+  </g>
+</svg>

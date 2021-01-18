@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg16"
+   width="800px"
+   version="1.1"
+   height="200px">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2"
+       type="text/css"><![CDATA[    
+     @font-face {font-family:Basier Circle Medium;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_E_TEMPORANEA/BasierCircle-Medium.otf');}
+     @font-face {font-family:Chango;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_X/Chango-Regular.ttf');}
+     ]]></style>
+  </defs>
+  <g
+     id="g14"
+     style="font-size:60px">
+    <g
+       style="text-anchor:middle"
+       id="text12"
+       aria-label="EXTEMPORANEA">
+      <path
+         id="path22"
+         style="font-family:'Basier Circle Medium';letter-spacing:0.075em"
+         d="m 125.86844,100 h 28.32 v -6.3 h -21.3 V 81.52 h 19.44 v -6.36 h -19.44 v -10.8 h 21.3 V 58 h -28.32 z" />
+      <path
+         id="path24"
+         style="font-family:Chango;letter-spacing:0.05em"
+         d="m 165.01094,100 q -1.2,0 -1.2,-0.9 0,-0.54 0.66,-1.26 l 15.96,-16.86 -14.58,-16.98 q -1.26,-1.56 -1.26,-2.52 0,-1.02 0.3,-1.62 0.9,-1.8 3.18,-1.8 l 22.68,-0.06 q 1.74,0 2.58,0.54 0.9,0.54 2.1,2.22 l 3.18,4.56 q 0.9,1.38 1.44,1.38 0.6,0 1.68,-1.14 l 6.06,-6.12 q 0.9,-0.96 1.38,-1.2 0.48,-0.24 1.38,-0.24 h 9.54 q 1.14,0 1.14,0.78 0,0.6 -0.66,1.44 l -14.1,15.6 q 9.18,12.3 13.38,18.42 1.32,1.86 1.32,3.36 0,2.16 -2.46,2.22 -5.52,0.12 -10.62,0.12 -5.1,0 -8.64,0 -3.54,-0.06 -4.2,-1.02 l -6.9,-8.58 q -0.72,-0.9 -1.26,-0.9 -0.48,0 -1.38,0.9 l -7.92,8.28 q -0.9,0.96 -1.38,1.2 -0.42,0.18 -1.32,0.18 z" />
+      <path
+         id="path26"
+         style="font-family:'Basier Circle Medium';letter-spacing:0.075em"
+         d="m 240.57156,100 h 7.08 V 64.36 h 12.66 V 58 h -32.4 v 6.36 h 12.66 z" />
+      <path
+         id="path28"
+         style="font-family:'Basier Circle Medium';letter-spacing:0.075em"
+         d="m 271.57938,100 h 28.32 V 93.7 H 278.59937 V 81.52 h 19.44 v -6.36 h -19.44 v -10.8 h 21.30001 V 58 h -28.32 z" />
+      <path
+         id="path30"
+         style="font-family:'Basier Circle Medium';letter-spacing:0.075em"
+         d="m 312.64188,100 h 6.77999 V 68.98 h 0.24 l 13.86001,23.94 h 0.59999 l 13.86,-23.76 h 0.24 V 100 h 6.78 V 58 h -7.85999 l -13.14001,22.92 h -0.24 L 320.62187,58 h -7.97999 z" />
+      <path
+         id="path32"
+         style="font-family:'Basier Circle Medium';letter-spacing:0.075em"
+         d="m 369.99344,100 h 7.02 V 85.3 h 10.02 c 8.46,0 13.86,-5.76 13.86,-13.8 0,-7.8 -5.28,-13.5 -13.86,-13.5 h -17.04 z m 7.02,-21.06 V 64.3 h 8.82 c 4.86,0 7.86,2.58 7.86,7.2 0,4.86 -2.82,7.44 -7.86,7.44 z" />
+      <path
+         id="path34"
+         style="font-family:'Basier Circle Medium';letter-spacing:0.075em"
+         d="m 430.37969,100.54 c 13.14,0 19.38,-9.54 19.38,-21.54 0,-12.06 -6.24,-21.54 -19.38,-21.54 -13.2,0 -19.38,9.48 -19.38,21.54 0,12 6.18,21.54 19.38,21.54 z m 0,-6.48 c -8.7,0 -12.18,-6.6 -12.18,-15.06 0,-8.46 3.42,-15.06 12.18,-15.06 8.7,0 12.18,6.6 12.18,15.06 0,8.46 -3.48,15.06 -12.18,15.06 z" />
+      <path
+         id="path36"
+         style="font-family:'Basier Circle Medium';letter-spacing:0.075em"
+         d="m 485.11375,83.32 c 5.28,-1.74 8.7,-6.24 8.7,-12.36 0,-7.14 -5.04,-12.96 -13.74,-12.96 h -17.76 v 42 h 7.02 V 84.16 h 8.4 l 10.14,15.84 h 7.98 v -0.6 z m -15.78,-18.96 h 10.32 c 4.62,0 6.9,2.76 6.9,6.66 0,3.96 -2.22,6.78 -6.9,6.78 h -10.32 z" />
+      <path
+         id="path38"
+         style="font-family:'Basier Circle Medium';letter-spacing:0.075em"
+         d="m 526.86906,58 h -8.82 l -15,41.4 v 0.6 h 7.44 l 3.3,-9.72 h 17.16 l 3.3,9.72 h 7.68 v -0.6 z m -10.98,26.1 6.36,-18.72 h 0.24 l 6.36,18.72 z" />
+      <path
+         id="path40"
+         style="font-family:'Basier Circle Medium';letter-spacing:0.075em"
+         d="m 552.99344,100 h 6.9 V 69.34 h 0.24 l 18.9,30.66 h 8.1 V 58 h -6.96 v 30.84 h -0.24 l -18.9,-30.84 h -8.04 z" />
+      <path
+         id="path42"
+         style="font-family:'Basier Circle Medium';letter-spacing:0.075em"
+         d="m 602.02469,100 h 28.32 v -6.3 h -21.3 V 81.52 h 19.44 v -6.36 h -19.44 v -10.8 h 21.3 V 58 h -28.32 z" />
+      <path
+         id="path44"
+         style="font-family:'Basier Circle Medium';letter-spacing:0.075em"
+         d="m 662.94719,58 h -8.82 l -15,41.4 v 0.6 h 7.44 l 3.3,-9.72 h 17.16 l 3.3,9.72 h 7.68 v -0.6 z m -10.98,26.1 6.36,-18.72 h 0.24 l 6.36,18.72 z" />
+    </g>
+  </g>
+</svg>

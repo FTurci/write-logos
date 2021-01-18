@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg16"
+   width="800px"
+   version="1.1"
+   height="200px">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2"
+       type="text/css"><![CDATA[    
+     @font-face {font-family:CHANEY;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_E_TEMPORANEA/CHANEY-Regular.otf');}
+     @font-face {font-family:Monofett;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_X/Monofett-Regular.ttf');}
+     ]]></style>
+  </defs>
+  <g
+     id="g14"
+     style="font-size:60px">
+    <g
+       style="text-anchor:middle"
+       id="text12"
+       aria-label="EXTEMPORANEA">
+      <path
+         id="path22"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="M 143.43437,69.4 V 58 h -34.19999 v 42 h 34.19999 V 88.54 h -20.99999 v -4.02 h 16.91999 V 73.6 h -16.91999 v -4.2 z" />
+      <path
+         id="path24"
+         style="font-family:Monofett;letter-spacing:0.05em"
+         d="m 172.78516,59.863281 q 2.95898,0 5.36132,0.878906 2.40235,0.878907 4.07227,2.402344 1.69922,1.523438 2.60742,3.574219 0.9082,2.021484 0.9082,4.306641 v 17.8125 q 0,2.285156 -0.9082,4.335937 -0.9082,2.021484 -2.60742,3.544922 -1.66992,1.523437 -4.07227,2.402344 Q 175.74414,100 172.78516,100 h -9.02344 q -2.95899,0 -5.36133,-0.878906 -2.40234,-0.878907 -4.10156,-2.402344 -1.66992,-1.523438 -2.57813,-3.544922 -0.9082,-2.050781 -0.9082,-4.335937 v -17.8125 q 0,-2.285157 0.9082,-4.306641 0.90821,-2.050781 2.57813,-3.574219 1.69922,-1.523437 4.10156,-2.402344 2.40234,-0.878906 5.36133,-0.878906 z m 3.57421,2.578125 -6.65039,10.546875 -6.47461,-10.546875 -2.8125,1.201172 6.82618,11.044922 -6.76758,10.986328 2.7539,1.113281 6.47461,-10.195312 6.65039,10.195312 2.78321,-1.113281 -6.79688,-10.986328 6.91407,-11.162109 z" />
+      <path
+         id="path26"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="m 232.77719,58 h -41.16 v 11.58 h 13.98 V 100 h 13.2 V 69.58 h 13.98 z" />
+      <path
+         id="path28"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="M 277.42656,69.4 V 58 h -34.2 v 42 h 34.2 V 88.54 h -21 v -4.02 h 16.92 V 73.6 h -16.92 v -4.2 z" />
+      <path
+         id="path30"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="m 322.12187,58 -10.38,14.46 -10.92,-14.46 h -12.9 v 42 h 12.9 V 78.64 l 10.92,13.38 10.38,-13.02 v 21 h 12.90001 V 58 Z" />
+      <path
+         id="path32"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="m 368.36781,58 h -22.86 v 42 h 13.2 v -9.6 h 9.66 c 10.74,0 17.82,-7.26 17.82,-16.2 0,-8.94 -7.08,-16.2 -17.82,-16.2 z m 0,20.82 h -9.66 v -9.24 h 9.66 c 2.52,0 4.62,2.04 4.62,4.62 0,2.58 -2.1,4.62 -4.62,4.62 z" />
+      <path
+         id="path34"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="m 417.49656,57.28 h -0.18 c -13.44,0 -23.04,8.76 -23.04,21.72 0,13.02 9.9,21.72 23.04,21.72 h 0.18 c 13.44,0 23.04,-8.7 23.04,-21.72 0,-12.96 -9.6,-21.72 -23.04,-21.72 z m 0,31.14 h -0.18 c -5.7,0 -9.6,-3.9 -9.6,-9.42 0,-5.46 3.9,-9.42 9.6,-9.42 h 0.18 c 5.7,0 9.6,3.96 9.6,9.42 0,5.52 -3.9,9.42 -9.6,9.42 z" />
+      <path
+         id="path36"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="m 449.78125,100 h 13.26 v -9.6 h 7.5 l 5.7,9.6 h 15.3 l -8.28,-12.54 c 4.56,-2.94 7.2,-7.8 7.2,-13.26 0,-8.94 -7.08,-16.2 -17.82,-16.2 h -22.86 z m 13.26,-21.18 v -9.24 h 9.6 c 2.52,0 4.62,2.04 4.62,4.62 0,2.58 -2.1,4.62 -4.62,4.62 z" />
+      <path
+         id="path38"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="m 530.63875,100 h 13.38 l -11.1,-42 h -24 l -11.1,42 h 13.32 l 1.74,-6.66 h 16.02 z m -14.76,-18.36 3.12,-12.06 h 3.72 l 3.12,12.06 z" />
+      <path
+         id="path40"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="M 581.2825,58 V 79.54 L 565.0225,58 h -12.96 v 42 h 12.96 V 77.92 l 16.26,22.08 h 12.96 V 58 Z" />
+      <path
+         id="path42"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="M 638.92656,69.4 V 58 h -34.2 v 42 h 34.2 V 88.54 h -21 v -4.02 h 16.92 V 73.6 h -16.92 v -4.2 z" />
+      <path
+         id="path44"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="m 679.84187,100 h 13.38 L 682.12188,58 h -24 l -11.1,42 h 13.31999 l 1.74,-6.66 h 16.02 z m -14.76,-18.36 3.12,-12.06 h 3.72 l 3.12,12.06 z" />
+    </g>
+  </g>
+</svg>

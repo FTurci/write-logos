@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg16"
+   width="800px"
+   version="1.1"
+   height="200px">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2"
+       type="text/css"><![CDATA[    
+     @font-face {font-family:Archia Bold;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_E_TEMPORANEA/Archia-Bold.otf');}
+     @font-face {font-family:Monofett;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_X/Monofett-Regular.ttf');}
+     ]]></style>
+  </defs>
+  <g
+     id="g14"
+     style="font-size:60px">
+    <g
+       style="text-anchor:middle"
+       id="text12"
+       aria-label="EXTEMPORANEA">
+      <path
+         id="path22"
+         style="font-family:'Archia Bold';letter-spacing:0.075em"
+         d="m 146.41094,100 h 27 v -8.34 h -18.06 v -8.82 h 15.06 V 74.5 h -15.06 v -8.1 h 17.46 V 58 h -26.4 z" />
+      <path
+         id="path24"
+         style="font-family:Monofett;letter-spacing:0.05em"
+         d="m 202.19922,59.863281 q 2.95898,0 5.36133,0.878906 2.40234,0.878907 4.07226,2.402344 1.69922,1.523438 2.60742,3.574219 0.90821,2.021484 0.90821,4.306641 v 17.8125 q 0,2.285156 -0.90821,4.335937 -0.9082,2.021484 -2.60742,3.544922 -1.66992,1.523437 -4.07226,2.402344 Q 205.1582,100 202.19922,100 h -9.02344 q -2.95898,0 -5.36133,-0.878906 -2.40234,-0.878907 -4.10156,-2.402344 -1.66992,-1.523438 -2.57812,-3.544922 -0.90821,-2.050781 -0.90821,-4.335937 v -17.8125 q 0,-2.285157 0.90821,-4.306641 0.9082,-2.050781 2.57812,-3.574219 1.69922,-1.523437 4.10156,-2.402344 2.40235,-0.878906 5.36133,-0.878906 z m 3.57422,2.578125 -6.65039,10.546875 -6.47461,-10.546875 -2.8125,1.201172 6.82617,11.044922 -6.76758,10.986328 2.75391,1.113281 6.47461,-10.195312 6.65039,10.195312 2.7832,-1.113281 -6.79687,-10.986328 6.91406,-11.162109 z" />
+      <path
+         id="path26"
+         style="font-family:'Archia Bold';letter-spacing:0.075em"
+         d="m 230.75125,100 h 8.88 V 66.4 h 11.22 V 58 h -31.32 v 8.4 h 11.22 z" />
+      <path
+         id="path28"
+         style="font-family:'Archia Bold';letter-spacing:0.075em"
+         d="m 261.06719,100 h 27 v -8.34 h -18.06 v -8.82 h 15.06 V 74.5 h -15.06 v -8.1 h 17.46 V 58 h -26.4 z" />
+      <path
+         id="path30"
+         style="font-family:'Archia Bold';letter-spacing:0.075em"
+         d="m 299.2,100 h 8.7 V 67 h 0.72 l 5.94,33 h 12.9 l 6,-33 h 0.66 v 33 h 8.7 V 58 h -15.66 l -5.82,33 h -0.66 L 314.86,58 H 299.2 Z" />
+      <path
+         id="path32"
+         style="font-family:'Archia Bold';letter-spacing:0.075em"
+         d="m 355.73125,100 h 8.94 V 85.18 h 6 c 8.04,0 13.98,-5.58 13.98,-13.68 0,-8.16 -5.64,-13.5 -13.98,-13.5 h -14.94 z m 8.94,-23.16 v -10.5 h 5.64 c 3.24,0 5.34,2.16 5.34,5.16 0,3.06 -2.1,5.34 -5.34,5.34 z" />
+      <path
+         id="path34"
+         style="font-family:'Archia Bold';letter-spacing:0.075em"
+         d="m 415.25312,100.78 c 12.6,0 21.9,-9.54 21.9,-21.84 0,-12.18 -9.24,-21.72 -21.9,-21.72 -12.54,0 -21.9,9.42 -21.9,21.72 0,12.42 9.24,21.84 21.9,21.84 z m 0,-8.64 c -7.31999,0 -12.66,-5.58 -12.66,-13.2 0,-7.5 5.34001,-13.08 12.66,-13.08 7.2,0 12.66,5.58 12.66,13.08 0,7.62 -5.46,13.2 -12.66,13.2 z" />
+      <path
+         id="path36"
+         style="font-family:'Archia Bold';letter-spacing:0.075em"
+         d="m 448.28594,100 h 8.94 V 84.82 h 4.26 l 7.74,15.18 h 10.2 l -9.18,-16.56 c 4.86,-2.28 7.5,-6.66 7.5,-12.3 0,-7.86 -6.18,-13.14 -15,-13.14 h -14.46 z m 8.94,-23.28 V 66.34 h 5.34 c 4.02,0 5.88,2.28 5.88,4.98 0,3.48 -2.34,5.4 -5.58,5.4 z" />
+      <path
+         id="path38"
+         style="font-family:'Archia Bold';letter-spacing:0.075em"
+         d="m 516.59687,100 h 9.42001 L 511.91687,58 h -12.6 l -14.22,42 h 9.6 l 2.70001,-8.4 h 16.5 z m -16.62,-16.56 5.28,-16.44 h 0.66 l 5.34,16.44 z" />
+      <path
+         id="path40"
+         style="font-family:'Archia Bold';letter-spacing:0.075em"
+         d="m 534.98125,100 h 8.94 V 67 h 0.66 l 9.48,33 h 15.36 V 58 h -8.88 v 33 h -0.6 l -9.72,-33 h -15.24 z" />
+      <path
+         id="path42"
+         style="font-family:'Archia Bold';letter-spacing:0.075em"
+         d="m 582.37188,100 h 27 v -8.34 h -18.06001 v -8.82 h 15.06001 V 74.5 h -15.06001 v -8.1 h 17.46001 V 58 h -26.4 z" />
+      <path
+         id="path44"
+         style="font-family:'Archia Bold';letter-spacing:0.075em"
+         d="m 648.10469,100 h 9.42 l -14.1,-42 h -12.6 l -14.22,42 h 9.6 l 2.7,-8.4 h 16.5 z m -16.62,-16.56 5.28,-16.44 h 0.66 l 5.34,16.44 z" />
+    </g>
+  </g>
+</svg>

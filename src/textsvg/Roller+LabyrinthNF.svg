@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="200px" version="1.1" width="800px" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style type="text/css"><![CDATA[    
-     @font-face {font-family:Roller;
-     src: url('/Users/francesco/Repos/write-logos/src/fonts/Roller.ttf');}
-     @font-face {font-family:Labyrinth NF;
-     src: url('/Users/francesco/Repos/write-logos/src/fonts/LabyrinthNF.ttf');}
-     ]]></style></defs><g style="font-size:60;"><text text-anchor="middle" x="50%" y="50%"><tspan font-family="Roller">e</tspan><tspan font-family="Labyrinth NF">X</tspan><tspan font-family="Roller">temporanea</tspan></text></g></svg>

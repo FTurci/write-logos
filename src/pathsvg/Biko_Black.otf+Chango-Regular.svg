@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg16"
+   width="800px"
+   version="1.1"
+   height="200px">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2"
+       type="text/css"><![CDATA[    
+     @font-face {font-family:Biko;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_E_TEMPORANEA/Biko_Black.otf');}
+     @font-face {font-family:Chango;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_X/Chango-Regular.ttf');}
+     ]]></style>
+  </defs>
+  <g
+     id="g14"
+     style="font-size:60px">
+    <g
+       style="text-anchor:middle"
+       id="text12"
+       aria-label="EXTEMPORANEA">
+      <path
+         id="path22"
+         style="font-family:Biko;letter-spacing:0.075em"
+         d="m 127.63047,100 h 28.68 V 89.68 h -18.24 v -8.16 h 16.32 V 71.14 h -16.32 v -3.66 h 18.66 v -10.2 h -29.1 z" />
+      <path
+         id="path24"
+         style="font-family:Chango;letter-spacing:0.05em"
+         d="m 166.47578,100 q -1.2,0 -1.2,-0.9 0,-0.54 0.66,-1.26 l 15.96,-16.86 -14.58,-16.98 q -1.26,-1.56 -1.26,-2.52 0,-1.02 0.3,-1.62 0.9,-1.8 3.18,-1.8 l 22.68,-0.06 q 1.74,0 2.58,0.54 0.9,0.54 2.1,2.22 l 3.18,4.56 q 0.9,1.38 1.44,1.38 0.6,0 1.68,-1.14 l 6.06,-6.12 q 0.9,-0.96 1.38,-1.2 0.48,-0.24 1.38,-0.24 h 9.54 q 1.14,0 1.14,0.78 0,0.6 -0.66,1.44 l -14.1,15.6 q 9.18,12.3 13.38,18.42 1.32,1.86 1.32,3.36 0,2.16 -2.46,2.22 -5.52,0.12 -10.62,0.12 -5.1,0 -8.64,0 -3.54,-0.06 -4.2,-1.02 l -6.9,-8.58 q -0.72,-0.9 -1.26,-0.9 -0.48,0 -1.38,0.9 l -7.92,8.28 q -0.9,0.96 -1.38,1.2 -0.42,0.18 -1.32,0.18 z" />
+      <path
+         id="path26"
+         style="font-family:Biko;letter-spacing:0.075em"
+         d="m 238.55641,100 h 10.38 V 67.6 h 9.78 V 57.28 h -29.94 V 67.6 h 9.78 z" />
+      <path
+         id="path28"
+         style="font-family:Biko;letter-spacing:0.075em"
+         d="m 270.29453,100 h 28.68 V 89.68 h -18.24 v -8.16 h 16.32 V 71.14 h -16.32 v -3.66 h 18.66 v -10.2 h -29.1 z" />
+      <path
+         id="path30"
+         style="font-family:Biko;letter-spacing:0.075em"
+         d="M 350.22859,100 V 57.28 h -9.24 l -10.02,13.8 -10.02,-13.8 h -9.24 V 100 h 10.38 V 76.36 l 8.88,12.18 c 2.46,-3.42 5.76,-7.86 8.94,-12.18 V 100 Z" />
+      <path
+         id="path32"
+         style="font-family:Biko;letter-spacing:0.075em"
+         d="m 364.64453,100 h 10.38 V 81.58 h 5.4 c 6.36,0 11.7,-5.7 11.7,-12.18 0,-3.12 -1.26,-6.48 -3.42,-8.7 -2.22,-2.16 -5.16,-3.42 -8.28,-3.42 h -15.78 z m 15.78,-28.68 h -5.4 v -3.78 h 5.4 c 0.72,0 1.26,1.08 1.26,1.86 0,0.78 -0.54,1.92 -1.26,1.92 z" />
+      <path
+         id="path34"
+         style="font-family:Biko;letter-spacing:0.075em"
+         d="m 422.86891,56.14 c -12.24,0 -22.2,9.96 -22.2,22.26 0,12.18 9.96,22.14 22.2,22.14 12.18,0 22.26,-9.96 22.26,-22.14 0,-12.3 -10.08,-22.26 -22.26,-22.26 z m 0,34.08 c -6.54,0 -11.82,-5.34 -11.82,-11.82 0,-6.54 5.28,-12 11.82,-12 6.54,0 11.76,5.46 11.76,12 0,6.48 -5.22,11.82 -11.76,11.82 z" />
+      <path
+         id="path36"
+         style="font-family:Biko;letter-spacing:0.075em"
+         d="m 477.68453,79.48 c 3.18,-2.04 5.16,-6 5.16,-10.08 0,-3.12 -1.26,-6.48 -3.42,-8.7 -2.16,-2.16 -5.1,-3.42 -8.22,-3.42 h -15.66 V 100 h 10.14 V 81.52 h 0.96 l 14.16,18.48 h 12.42 z m -12,-12 h 5.52 c 0.84,0 1.44,1.08 1.44,1.92 0,0.84 -0.6,1.92 -1.44,1.92 h -5.52 z" />
+      <path
+         id="path38"
+         style="font-family:Biko;letter-spacing:0.075em"
+         d="m 529.30891,100 h 11.22 l -16.5,-42.72 h -8.76 l -16.44,42.72 h 11.04 l 3.78,-9.72 h 12 z m -7.68,-19.92 h -4.02 l 2.04,-6.24 z" />
+      <path
+         id="path40"
+         style="font-family:Biko;letter-spacing:0.075em"
+         d="m 575.39922,100 h 9.48 V 57.28 h -10.44 v 22.74 l -15.3,-22.74 h -9.54 V 100 h 10.44 V 77.14 Z" />
+      <path
+         id="path42"
+         style="font-family:Biko;letter-spacing:0.075em"
+         d="m 598.16172,100 h 28.68 V 89.68 h -18.24 v -8.16 h 16.32 V 71.14 h -16.32 v -3.66 h 18.66 v -10.2 h -29.1 z" />
+      <path
+         id="path44"
+         style="font-family:Biko;letter-spacing:0.075em"
+         d="m 665.38703,100 h 11.22 l -16.5,-42.72 h -8.76 l -16.44,42.72 h 11.04 l 3.78,-9.72 h 12 z m -7.68,-19.92 h -4.02 l 2.04,-6.24 z" />
+    </g>
+  </g>
+</svg>

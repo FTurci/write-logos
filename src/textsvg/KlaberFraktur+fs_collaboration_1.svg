@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="200px" version="1.1" width="500px" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style type="text/css"><![CDATA[    
-     @font-face {font-family:Klaber Fraktur;
-     src: url('/Users/francesco/Repos/write-logos/src/fonts/KlaberFraktur.ttf');}
-     @font-face {font-family:FS Collaboration 1;
-     src: url('/Users/francesco/Repos/write-logos/src/fonts/fs_collaboration_1.ttf');}
-     ]]></style></defs><g style="font-size:60;"><text text-anchor="middle" x="50%" y="50%"><tspan font-family="Klaber Fraktur">e</tspan><tspan font-family="FS Collaboration 1">X</tspan><tspan font-family="Klaber Fraktur">temporanea</tspan></text></g></svg>

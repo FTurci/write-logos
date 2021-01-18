@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg16"
+   width="800px"
+   version="1.1"
+   height="200px">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2"
+       type="text/css"><![CDATA[    
+     @font-face {font-family:Poppins;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_E_TEMPORANEA/Poppins-Bold.ttf');}
+     @font-face {font-family:Qualy;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_X/QualyBold.ttf');}
+     ]]></style>
+  </defs>
+  <g
+     id="g14"
+     style="font-size:60px">
+    <g
+       style="text-anchor:middle"
+       id="text12"
+       aria-label="EXTEMPORANEA">
+      <path
+         id="path22"
+         style="font-family:Poppins;letter-spacing:0.075em"
+         d="m 148.04219,65.74 v 8.88 h 14.34 v 7.74 h -14.34 v 9.42 h 16.14 V 100 h -26.4 V 57.58 h 26.4 v 8.16 z" />
+      <path
+         id="path24"
+         style="font-family:Qualy;letter-spacing:0.05em"
+         d="m 208.46875,100 h -9.02344 L 189.83594,85.292969 179.99219,100 h -9.02344 L 185.11914,78.378906 171.75977,57.988281 h 9.02343 l 13.56446,20.390625 q 3.92578,6.035156 6.29882,9.697266 2.40235,3.662109 3.31055,5.039062 z m -10.81055,-26.71875 -4.6875,-6.855469 5.6836,-8.4375 h 9.05273 z" />
+      <path
+         id="path26"
+         style="font-family:Poppins;letter-spacing:0.075em"
+         d="m 250.17625,57.58 v 8.16 h -11.52 V 100 h -10.32 V 65.74 h -11.4 v -8.16 z" />
+      <path
+         id="path28"
+         style="font-family:Poppins;letter-spacing:0.075em"
+         d="m 269.26094,65.74 v 8.88 h 14.34 v 7.74 h -14.34 v 9.42 h 16.14 V 100 h -26.4 V 57.58 h 26.4 v 8.16 z" />
+      <path
+         id="path30"
+         style="font-family:Poppins;letter-spacing:0.075em"
+         d="M 343.4275,57.88 V 100 h -10.26 V 73.66 l -9.12,26.34 h -8.88 l -9.18,-26.4 V 100 h -10.26 V 57.88 h 12.54 l 11.46,29.34 11.22,-29.34 z" />
+      <path
+         id="path32"
+         style="font-family:Poppins;letter-spacing:0.075em"
+         d="M 365.21406,85.12 V 100 h -10.26 V 57.58 h 16.62 q 7.56,0 11.52,3.78 3.96,3.72 3.96,10.08 0,3.96 -1.8,7.08 -1.74,3.06 -5.22,4.86 -3.48,1.74 -8.46,1.74 z m 5.22,-8.22 q 6.18,0 6.18,-5.46 0,-5.58 -6.18,-5.58 h -5.22 V 76.9 Z" />
+      <path
+         id="path34"
+         style="font-family:Poppins;letter-spacing:0.075em"
+         d="m 416.7625,56.92 q 6,0 10.86,2.82 4.92,2.76 7.74,7.74 2.82,4.92 2.82,11.16 0,6.24 -2.88,11.22 -2.82,4.98 -7.74,7.8 -4.86,2.76 -10.8,2.76 -5.94,0 -10.86,-2.76 -4.86,-2.82 -7.74,-7.8 -2.82,-4.98 -2.82,-11.22 0,-6.24 2.82,-11.16 2.88,-4.98 7.74,-7.74 4.92,-2.82 10.86,-2.82 z m 0,9.54 q -5.04,0 -8.04,3.3 -2.94,3.24 -2.94,8.88 0,5.58 2.94,8.88 3,3.3 8.04,3.3 4.98,0 7.98,-3.3 3,-3.3 3,-8.88 0,-5.58 -3,-8.88 -2.94,-3.3 -7.98,-3.3 z" />
+      <path
+         id="path36"
+         style="font-family:Poppins;letter-spacing:0.075em"
+         d="m 470.22625,100 -9.18,-16.02 h -2.34 V 100 h -10.26 V 57.58 h 17.52 q 5.04,0 8.52,1.74 3.48,1.74 5.22,4.8 1.74,3 1.74,6.9 0,4.62 -2.58,7.86 -2.52,3.24 -7.38,4.44 l 10.08,16.68 z m -11.52,-23.04 h 6.36 q 3.06,0 4.5,-1.32 1.44,-1.38 1.44,-4.02 0,-2.52 -1.5,-3.96 -1.44,-1.44 -4.44,-1.44 h -6.36 z" />
+      <path
+         id="path38"
+         style="font-family:Poppins;letter-spacing:0.075em"
+         d="m 517.42938,92.26 h -15.9 l -2.64001,7.74 h -10.79999 l 15.53999,-42.12 h 11.82001 L 530.98937,100 h -10.91999 z m -2.64001,-7.8 -5.28,-15.6 -5.34,15.6 z" />
+      <path
+         id="path40"
+         style="font-family:Poppins;letter-spacing:0.075em"
+         d="m 577.1575,100 h -10.26 l -17.16,-26.04 V 100 h -10.26 V 57.58 h 10.26 l 17.16,26.28 V 57.58 h 10.26 z" />
+      <path
+         id="path42"
+         style="font-family:Poppins;letter-spacing:0.075em"
+         d="m 599.00312,65.74 v 8.88 h 14.34 v 7.74 h -14.34 v 9.42 h 16.14001 V 100 H 588.74312 V 57.58 h 26.40001 v 8.16 z" />
+      <path
+         id="path44"
+         style="font-family:Poppins;letter-spacing:0.075em"
+         d="m 651.74969,92.26 h -15.9 l -2.64,7.74 h -10.8 l 15.54,-42.12 h 11.82 l 15.54,42.12 h -10.92 z m -2.64,-7.8 -5.28,-15.6 -5.34,15.6 z" />
+    </g>
+  </g>
+</svg>

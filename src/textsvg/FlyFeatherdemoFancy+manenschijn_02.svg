@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="200px" version="1.1" width="500px" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style type="text/css"><![CDATA[    
-     @font-face {font-family:Fly Featherdemo Fancy;
-     src: url('/Users/francesco/Repos/write-logos/src/fonts/FlyFeatherdemoFancy.ttf');}
-     @font-face {font-family:Manenschijn_02;
-     src: url('/Users/francesco/Repos/write-logos/src/fonts/manenschijn_02.ttf');}
-     ]]></style></defs><g style="font-size:30;"><text text-anchor="middle" x="50%" y="50%"><tspan font-family="Fly Featherdemo Fancy">e</tspan><tspan font-family="Manenschijn_02">X</tspan><tspan font-family="Fly Featherdemo Fancy">temporanea</tspan></text></g></svg>

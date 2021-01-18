@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg16"
+   width="800px"
+   version="1.1"
+   height="200px">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2"
+       type="text/css"><![CDATA[    
+     @font-face {font-family:Glacial Indifference;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_E_TEMPORANEA/GlacialIndifference-Bold.otf');}
+     @font-face {font-family:Emblema One;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_X/EmblemaOne-Regular.ttf');}
+     ]]></style>
+  </defs>
+  <g
+     id="g14"
+     style="font-size:60px">
+    <g
+       style="text-anchor:middle"
+       id="text12"
+       aria-label="EXTEMPORANEA">
+      <path
+         id="path22"
+         style="font-family:'Glacial Indifference';letter-spacing:0.075em"
+         d="m 176.42359,91.84 h -14.64 v -8.22 h 14.04 v -8.16 h -14.04 v -8.1 h 14.64 V 59.2 h -23.64 V 100 h 23.64 z" />
+      <path
+         id="path24"
+         style="font-family:'Emblema One';letter-spacing:0.05em"
+         d="m 203.69336,100 q -5.88867,-20.214844 -14.17969,-37.96875 0,-0.380859 0.9375,-1.142578 0.9668,-0.761719 1.64063,-0.761719 h 15 q 3.33984,11.425781 6.41601,19.746094 3.07617,8.291015 7.73438,18.193359 0,0.38086 -0.9375,1.171875 Q 219.36719,100 218.69336,100 Z m 11.39648,-21.123047 q 1.66993,-5.537109 1.66993,-9.609375 0,-1.933594 -0.35157,-3.398437 -0.35156,-1.494141 -1.23047,-3.837891 0,-0.380859 0.9375,-1.142578 0.9668,-0.761719 1.64063,-0.761719 h 9.3457 q -3.48633,5.332031 -5.71289,9.140625 -2.22656,3.808594 -3.75,7.617188 -0.17578,0.46875 -1.02539,1.230468 -0.84961,0.761719 -1.52344,0.761719 z m -19.33593,2.255859 q -1.66993,5.361329 -1.66993,9.052735 0,3.691406 1.58204,7.880859 0,0.38086 -0.9668,1.171875 Q 193.76172,100 193.08789,100 h -9.375 q 6.88477,-10.576172 9.46289,-16.933594 0.17578,-0.46875 1.02539,-1.201172 0.87891,-0.732422 1.55274,-0.732422 z" />
+      <path
+         id="path26"
+         style="font-family:'Glacial Indifference';letter-spacing:0.075em"
+         d="m 248.52203,67.36 h 11.64 V 59.2 h -32.28 v 8.16 h 11.64 V 100 h 9 z" />
+      <path
+         id="path28"
+         style="font-family:'Glacial Indifference';letter-spacing:0.075em"
+         d="m 292.25172,91.84 h -14.64 v -8.22 h 14.04 v -8.16 h -14.04 v -8.1 h 14.64 V 59.2 h -23.64 V 100 h 23.64 z" />
+      <path
+         id="path30"
+         style="font-family:'Glacial Indifference';letter-spacing:0.075em"
+         d="m 354.81203,100 -7.92,-40.8 h -10.68 l -8.46,28.62 -8.52,-28.62 h -10.68 l -7.92,40.8 h 9.9 l 4.8,-28.14 7.98,28.14 h 8.82 l 7.98,-28.14 4.8,28.14 z" />
+      <path
+         id="path32"
+         style="font-family:'Glacial Indifference';letter-spacing:0.075em"
+         d="m 372.15859,85.42 h 6.3 c 6.6,0 12.48,-4.86 12.48,-13.14 0,-7.74 -5.88,-13.08 -12.48,-13.08 h -6.3 -2.22 -6.78 V 100 h 9 z m 4.8,-19.14 c 2.64,0 5.4,2.28 5.4,6 0,3.9 -2.76,6.06 -5.4,6.06 h -4.8 V 66.28 Z" />
+      <path
+         id="path34"
+         style="font-family:'Glacial Indifference';letter-spacing:0.075em"
+         d="m 431.38516,79.54 c 0,6.3 -5.7,12.06 -12,12.06 -6.3,0 -12,-5.76 -12,-12.06 0,-6.3 5.7,-12 12,-12 6.3,0 12,5.7 12,12 z m 9,0.06 c 0,-11.28 -9.72,-21 -21,-21 -11.28,0 -21,9.72 -21,21 0,11.28 9.72,21 21,21 11.28,0 21,-9.72 21,-21 z" />
+      <path
+         id="path36"
+         style="font-family:'Glacial Indifference';letter-spacing:0.075em"
+         d="m 459.55703,85.42 h 0.06 l 9.72,14.58 h 11.4 l -11.7,-15 c 5.16,-1.26 9.3,-5.82 9.3,-12.72 0,-7.74 -5.88,-13.08 -12.48,-13.08 h -6.3 -2.22 -6.78 V 100 h 9 z m 4.8,-19.14 c 2.64,0 5.4,2.28 5.4,6 0,3.9 -2.76,6.06 -5.4,6.06 h -4.8 V 66.28 Z" />
+      <path
+         id="path38"
+         style="font-family:'Glacial Indifference';letter-spacing:0.075em"
+         d="m 510.30391,84.4 h -10.32 l 5.16,-14.52 z m 15.24,15.6 -16.56,-40.8 h -7.62 l -16.56,40.8 h 9.66 l 2.94,-8.22 h 15.54 l 2.94,8.22 z" />
+      <path
+         id="path40"
+         style="font-family:'Glacial Indifference';letter-spacing:0.075em"
+         d="M 566.01109,100 V 59.2 h -9 v 25.44 l -14.04,-25.44 h -9 V 100 h 9 V 74.56 l 14.04,25.44 z" />
+      <path
+         id="path42"
+         style="font-family:'Glacial Indifference';letter-spacing:0.075em"
+         d="m 601.36891,91.84 h -14.64 v -8.22 h 14.04 v -8.16 h -14.04 v -8.1 h 14.64 V 59.2 h -23.64 V 100 h 23.64 z" />
+      <path
+         id="path44"
+         style="font-family:'Glacial Indifference';letter-spacing:0.075em"
+         d="m 635.24922,84.4 h -10.32 l 5.16,-14.52 z m 15.24,15.6 -16.56,-40.8 h -7.62 l -16.56,40.8 h 9.66 l 2.94,-8.22 h 15.54 l 2.94,8.22 z" />
+    </g>
+  </g>
+</svg>

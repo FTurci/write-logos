@@ -57,9 +57,9 @@ def print_logo(fontpath1, fontpath2,fontsize=30, width = 500,height = 200, white
     g = dwg.g(style=f"font-size:{fontsize};")#font-family:{info1['Family']};")#font-weight:bold;font-style:oblique;stroke:black;stroke-width:1;fill:red")
 
     atext = dwg.text("", x=["50%"],y=["50%"], text_anchor="middle")
-    atext.add(dwg.tspan('e', font_family=info1['Family']))
-    atext.add(dwg.tspan('X', font_family=info2['Family']))
-    atext.add(dwg.tspan('temporanea', font_family=info1['Family']))
+    atext.add(dwg.tspan('E', font_family=info1['Family'],letter_spacing= "0.075em"))
+    atext.add(dwg.tspan('X', font_family=info2['Family'],letter_spacing= "0.05em"))
+    atext.add(dwg.tspan('TEMPORANEA', font_family=info1['Family'],letter_spacing= "0.075em"))
     g.add(atext)#, x=["50%"],y=["50%"], text_anchor="middle"))
     # settings are valid for all text added to 'g'
     dwg.add(g)
@@ -77,20 +77,12 @@ def print_logo(fontpath1, fontpath2,fontsize=30, width = 500,height = 200, white
         f'convert -flatten  "pngs/{fontname1}+{fontname2}.png" "pngs/{fontname1}+{fontname2}.png"', shell=True
     )
 
-    #test with the first 10 fonts
-# fonts = [fonts2f for f in os.listdir("fonts2") if f.endswith(".ttf") ]
-fonts=glob.glob("fonts2/*.ttf")
-print(fonts)
-# to create combinations:
-# combinationbs = itertools.combinations(fonts,2)
-# # print (list(combinations))
-# for a,b in combinations:
-#     print(a,b)
-#     print_logo(a,b)
 
-permutation = np.random.permutation(fonts)
-N = 1
-x = permutation[:N]
-rest = permutation[N:N+N]
-for a,b in zip(x,rest):
-    print_logo(a,b,fontsize=60, width=800)
+# N = 5
+fonts_E_TEMPORANEA = glob.glob("fonts/Fonts_E_TEMPORANEA/*f")#[:N]
+fonts_X = glob.glob("fonts/Fonts_X/*f")#[:N]
+
+
+for x in fonts_X:
+    for rest in fonts_E_TEMPORANEA:
+        print_logo(rest,x,fontsize=60, width=800)

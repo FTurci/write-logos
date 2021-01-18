@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg16"
+   width="800px"
+   version="1.1"
+   height="200px">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2"
+       type="text/css"><![CDATA[    
+     @font-face {font-family:CHANEY;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_E_TEMPORANEA/CHANEY-Regular.otf');}
+     @font-face {font-family:Oubli_CAP;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_X/Oubli_CAP.ttf');}
+     ]]></style>
+  </defs>
+  <g
+     id="g14"
+     style="font-size:60px">
+    <g
+       style="text-anchor:middle"
+       id="text12"
+       aria-label="EXTEMPORANEA">
+      <path
+         id="path22"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="M 139.21562,69.4 V 58 h -34.19999 v 42 h 34.19999 V 88.54 h -20.99999 v -4.02 h 16.91999 V 73.6 h -16.91999 v -4.2 z" />
+      <path
+         id="path24"
+         style="font-family:Oubli_CAP;letter-spacing:0.05em"
+         d="m 174.54297,58.017578 2.46094,4.365234 h 3.57421 l -10.3125,16.113282 11.36719,17.138672 h -3.86719 l -9.52148,-14.882813 -0.0293,8.115234 L 175.36328,100 h 14.44336 l -14.32617,-21.5625 13.0957,-20.419922 z m -26.60156,0 13.0664,20.15625 L 146.71094,100 h 14.35547 l -2.40235,-4.365234 h -3.86719 L 166.22266,78.203125 155.99805,62.382812 h 3.63281 l 8.78906,14.0625 -0.0586,-8.320312 -6.29883,-10.107422 z" />
+      <path
+         id="path26"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="m 236.99594,58 h -41.16 v 11.58 h 13.98 V 100 h 13.2 V 69.58 h 13.98 z" />
+      <path
+         id="path28"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="M 281.64531,69.4 V 58 h -34.2 v 42 h 34.2 V 88.54 h -21 v -4.02 h 16.92 V 73.6 h -16.92 v -4.2 z" />
+      <path
+         id="path30"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="m 326.34062,58 -10.38,14.46 -10.92,-14.46 h -12.9 v 42 h 12.9 V 78.64 l 10.92,13.38 10.38,-13.02 v 21 h 12.90001 V 58 Z" />
+      <path
+         id="path32"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="m 372.58656,58 h -22.86 v 42 h 13.2 v -9.6 h 9.66 c 10.74,0 17.82,-7.26 17.82,-16.2 0,-8.94 -7.08,-16.2 -17.82,-16.2 z m 0,20.82 h -9.66 v -9.24 h 9.66 c 2.52,0 4.62,2.04 4.62,4.62 0,2.58 -2.1,4.62 -4.62,4.62 z" />
+      <path
+         id="path34"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="m 421.71531,57.28 h -0.18 c -13.44,0 -23.04,8.76 -23.04,21.72 0,13.02 9.9,21.72 23.04,21.72 h 0.18 c 13.44,0 23.04,-8.7 23.04,-21.72 0,-12.96 -9.6,-21.72 -23.04,-21.72 z m 0,31.14 h -0.18 c -5.7,0 -9.6,-3.9 -9.6,-9.42 0,-5.46 3.9,-9.42 9.6,-9.42 h 0.18 c 5.7,0 9.6,3.96 9.6,9.42 0,5.52 -3.9,9.42 -9.6,9.42 z" />
+      <path
+         id="path36"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="m 454,100 h 13.26 v -9.6 h 7.5 l 5.7,9.6 h 15.3 l -8.28,-12.54 c 4.56,-2.94 7.2,-7.8 7.2,-13.26 0,-8.94 -7.08,-16.2 -17.82,-16.2 H 454 Z m 13.26,-21.18 v -9.24 h 9.6 c 2.52,0 4.62,2.04 4.62,4.62 0,2.58 -2.1,4.62 -4.62,4.62 z" />
+      <path
+         id="path38"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="m 534.8575,100 h 13.38 l -11.1,-42 h -24 l -11.1,42 h 13.32 l 1.74,-6.66 h 16.02 z m -14.76,-18.36 3.12,-12.06 h 3.72 l 3.12,12.06 z" />
+      <path
+         id="path40"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="M 585.50125,58 V 79.54 L 569.24125,58 h -12.96 v 42 h 12.96 V 77.92 l 16.26,22.08 h 12.96 V 58 Z" />
+      <path
+         id="path42"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="M 643.14531,69.4 V 58 h -34.2 v 42 h 34.2 V 88.54 h -21 v -4.02 h 16.92 V 73.6 h -16.92 v -4.2 z" />
+      <path
+         id="path44"
+         style="font-family:CHANEY;letter-spacing:0.075em"
+         d="m 684.06062,100 h 13.38 L 686.34063,58 h -24 l -11.1,42 h 13.31999 l 1.74,-6.66 h 16.02 z m -14.76,-18.36 3.12,-12.06 h 3.72 l 3.12,12.06 z" />
+    </g>
+  </g>
+</svg>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="200px" version="1.1" width="800px" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style type="text/css"><![CDATA[    
-     @font-face {font-family:Hildane;
-     src: url('/Users/francesco/Repos/write-logos/src/fonts/Hildane_-Demo.ttf');}
-     @font-face {font-family:Stay Cool;
-     src: url('/Users/francesco/Repos/write-logos/src/fonts/Stay_Cool.ttf');}
-     ]]></style></defs><g style="font-size:60;"><text text-anchor="middle" x="50%" y="50%"><tspan font-family="Hildane">e</tspan><tspan font-family="Stay Cool">X</tspan><tspan font-family="Hildane">temporanea</tspan></text></g></svg>

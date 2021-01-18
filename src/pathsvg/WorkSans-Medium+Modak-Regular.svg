@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg16"
+   width="800px"
+   version="1.1"
+   height="200px">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2"
+       type="text/css"><![CDATA[    
+     @font-face {font-family:Work Sans Medium;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_E_TEMPORANEA/WorkSans-Medium.ttf');}
+     @font-face {font-family:Modak;
+     src: url('/Users/francesco/Repos/write-logos/src/fonts/Fonts_X/Modak-Regular.ttf');}
+     ]]></style>
+  </defs>
+  <g
+     id="g14"
+     style="font-size:60px">
+    <g
+       style="text-anchor:middle"
+       id="text12"
+       aria-label="EXTEMPORANEA">
+      <path
+         id="path22"
+         style="font-family:'Work Sans Medium';letter-spacing:0.075em"
+         d="M 137.77844,100 V 60.4 h 28.68 v 5.52 h -22.26 v 11.4 h 17.4 v 5.4 h -17.4 v 11.76 h 23.1 V 100 Z" />
+      <path
+         id="path24"
+         style="font-family:Modak;letter-spacing:0.05em"
+         d="m 193.70312,93.115234 -3.39843,6.621094 q -2.19727,0.820312 -4.77539,0.820312 -4.54102,0 -7.44141,-2.578124 -2.90039,-2.578125 -2.90039,-6.94336 0,-3.867187 2.60742,-6.884765 2.60742,-3.017579 7.38281,-5.06836 -0.35156,-0.966797 -1.20117,-0.966797 -0.84961,0 -3.10547,1.552735 -2.19726,-1.142578 -3.86718,-3.779297 -1.64063,-2.636719 -1.64063,-6.09375 0,-3.457031 2.54883,-5.917969 2.54883,-2.460937 7.03125,-2.460937 3.86719,0 6.35742,1.435546 l 3.10547,6.181641 2.51953,-6.328125 q 2.49024,-1.113281 5.56641,-1.113281 4.36523,0 7.08984,2.402344 2.72461,2.460937 2.72461,6.884765 0,3.66211 -2.63672,6.884766 -2.60742,3.193359 -6.70898,5.068359 0.32226,0.84961 1.14258,0.84961 0.8496,0 2.7246,-1.289063 l 6.03516,7.558594 q 0,4.716797 -2.34375,7.529297 -2.57812,3.105471 -7.11914,3.105471 -6.91406,0 -9.69727,-7.470706 z" />
+      <path
+         id="path26"
+         style="font-family:'Work Sans Medium';letter-spacing:0.075em"
+         d="m 250.67594,60.4 v 5.52 h -13.56 V 100 h -6.42 V 65.92 h -13.56 V 60.4 Z" />
+      <path
+         id="path28"
+         style="font-family:'Work Sans Medium';letter-spacing:0.075em"
+         d="M 262.86437,100 V 60.4 h 28.68 v 5.52 h -22.26 v 11.4 h 17.4 v 5.4 h -17.4 v 11.76 h 23.1 V 100 Z" />
+      <path
+         id="path30"
+         style="font-family:'Work Sans Medium';letter-spacing:0.075em"
+         d="M 346.0675,60.4 V 100 h -5.88 V 77.08 l 0.42,-10.92 h -0.06 l -12.06,33.84 h -5.34 l -12.06,-33.84 h -0.06 l 0.48,10.92 V 100 h -5.94 V 60.4 h 9.54 l 7.98,22.92 2.76,9.42 h 0.12 l 2.82,-9.42 7.92,-22.92 z" />
+      <path
+         id="path32"
+         style="font-family:'Work Sans Medium';letter-spacing:0.075em"
+         d="m 377.57312,60.4 q 6.30001,0 10.08,3.3 3.84001,3.3 3.84001,9.12 0,5.76 -3.84001,9.12 -3.77999,3.3 -10.08,3.3 h -8.82 V 100 h -6.42 V 60.4 Z m -1.01999,19.32 q 4.26,0 6.23999,-1.74 2.04,-1.74 2.04,-5.16 0,-3.42 -2.04,-5.16 -1.97999,-1.8 -6.23999,-1.8 h -7.80001 v 13.86 z" />
+      <path
+         id="path34"
+         style="font-family:'Work Sans Medium';letter-spacing:0.075em"
+         d="m 420.89031,59.8 q 5.76,0 9.96,2.46 4.2,2.46 6.48,7.08 2.28,4.56 2.28,10.86 0,6.3 -2.28,10.92 -2.28,4.56 -6.48,7.02 -4.2,2.46 -9.96,2.46 -5.76,0 -9.96,-2.46 -4.14,-2.46 -6.42,-7.02 -2.28,-4.62 -2.28,-10.92 0,-6.3 2.28,-10.86 2.28,-4.62 6.42,-7.08 4.2,-2.46 9.96,-2.46 z m 0,5.58 q -5.58,0 -8.76,3.9 -3.18,3.84 -3.18,10.92 0,7.08 3.18,10.98 3.18,3.84 8.76,3.84 5.64,0 8.82,-3.84 3.18,-3.9 3.18,-10.98 0,-7.08 -3.18,-10.92 -3.18,-3.9 -8.82,-3.9 z" />
+      <path
+         id="path36"
+         style="font-family:'Work Sans Medium';letter-spacing:0.075em"
+         d="m 469.73875,60.4 q 6.36,0 10.08,3.18 3.78,3.18 3.78,8.58 0,4.32 -2.34,7.14 -2.28,2.76 -6.3,3.84 l 10.98,16.86 h -7.38 l -10.08,-15.84 h -8.52 V 100 h -6.36 V 60.4 Z m -0.48,18.42 q 7.68,0 7.68,-6.48 0,-6.48 -7.68,-6.48 h -9.3 v 12.96 z" />
+      <path
+         id="path38"
+         style="font-family:'Work Sans Medium';letter-spacing:0.075em"
+         d="m 493.73125,100 14.94,-39.6 h 7.68 l 14.94,39.6 h -6.78 l -3.72,-10.38 h -16.68 l -3.78,10.38 z m 16.92,-28.44 -4.68,12.84 h 12.9 l -4.56,-12.72 -1.8,-5.7 h -0.18 z" />
+      <path
+         id="path40"
+         style="font-family:'Work Sans Medium';letter-spacing:0.075em"
+         d="M 575.215,60.4 V 100 h -7.62 l -15.3,-24.96 -3.84,-7.02 h -0.06 l 0.24,6.42 V 100 h -5.88 V 60.4 h 7.56 l 15.24,24.9 3.9,7.14 h 0.06 l -0.24,-6.48 V 60.4 Z" />
+      <path
+         id="path42"
+         style="font-family:'Work Sans Medium';letter-spacing:0.075em"
+         d="M 591.43469,100 V 60.4 h 28.68 v 5.52 h -22.26 v 11.4 h 17.4 v 5.4 h -17.4 v 11.76 h 23.1 V 100 Z" />
+      <path
+         id="path44"
+         style="font-family:'Work Sans Medium';letter-spacing:0.075em"
+         d="m 629.45781,100 14.94,-39.6 h 7.68 l 14.94,39.6 h -6.78 l -3.72,-10.38 h -16.68 l -3.78,10.38 z m 16.92,-28.44 -4.68,12.84 h 12.9 l -4.56,-12.72 -1.8,-5.7 h -0.18 z" />
+    </g>
+  </g>
+</svg>
