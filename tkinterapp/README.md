@@ -10,7 +10,7 @@ Per eseguire il programma, occorrono i moduli supplementari specificati nel file
 pip install -r requirements.txt
 ```
 
-Per eseguire il programma è quindi sufficience eseguire
+Per eseguire il programma è quindi sufficiente eseguire
 
 ```
 python RandomLogo.py         
