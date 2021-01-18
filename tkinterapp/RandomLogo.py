@@ -82,7 +82,7 @@ def shuffleCallback():
     # window.update_idletasks()
     print(tmp.name)
 
-quit = tkinter.Button(window, text="Quit", command=window.destroy) 
+quit = tkinter.Button(window, text="Esci", command=window.destroy) 
 quit.pack(side="right") 
 
 shuffle = tkinter.Button(window, text ="Rimescola", command = shuffleCallback)
