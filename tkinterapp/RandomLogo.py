@@ -8,6 +8,8 @@ from tkinter.filedialog import asksaveasfile
 from PIL import ImageTk,Image
 import tempfile
 import random
+import urllib
+
 
 def get_urls():
     # Store the url as a string scalar: url => str
@@ -38,6 +40,9 @@ window = tkinter.Tk()
 label = tkinter.Label(window)
 #The Pack geometry manager packs widgets in rows or columns.
 label.pack(side = "top", fill = "both", expand = "yes")   
+statusbar = tkinter.Label(window)
+
+
 
 urls = get_urls()
 path = '/Users/francesco/Pictures/me.JPG'          
@@ -62,6 +67,7 @@ window.configure()#background='grey')
 
 img = ImageTk.PhotoImage(Image.open(tmpfile.name))
 label.config(image=img)
+statusbar.configure(text=urllib.parse.unquote(urls[which].split('pngs/')[1]),relief=tkinter.SUNKEN, anchor=tkinter.W)
 
 def saveCallback():
     file = asksaveasfile(mode='w', defaultextension=".png")
@@ -79,6 +85,8 @@ def shuffleCallback():
     img2 = ImageTk.PhotoImage(Image.open(tmp.name))
     label.configure(image=img2)
     label.image = img2
+    statusbar.configure(text=urllib.parse.unquote(urls[which].split('pngs/')[1]),relief=tkinter.SUNKEN,anchor=tkinter.W)
+
     # window.update_idletasks()
     print(tmp.name)
 
@@ -90,6 +98,10 @@ save = tkinter.Button(window, text ="Salva", command = saveCallback)
 save.pack(side="right")
 
 shuffle.pack(side="right")
+
+statusbar.pack(#side="left",
+ fill=tkinter.X)
+
 tkinter.mainloop()         
 
 
