@@ -1,6 +1,6 @@
 # RandomLogo.py
 
-Questo è un programma per ottenere un logo random in formato PNG, a partire dalla libreria di loghi pre-realizzati.
+Questo è un programma per ottenere un logo random in formato PNG, a partire dalla libreria di loghi pre-realizzati https://github.com/FTurci/write-logos/tree/main/src/pngs.
 
 Il programma è una semplice interfaccia `Tkinter`.
 
