@@ -1,3 +1,5 @@
+# @Francesco_Turci
+
 import svgwrite as svg
 import glob
 import subprocess
@@ -23,7 +25,7 @@ def parse_info(info):
     return information
 
 
-def print_logo(fontpath1, fontpath2,fontsize=30, width = 500,height = 200, white=True): 
+def print_logo(fontpath1, fontpath2,fontsize=30, width = 500, height = 200): 
     
     print("p1", fontpath1,pathlib.PurePosixPath(fontpath1))
     fontpath1 = pathlib.Path(pathlib.PurePosixPath(fontpath1)).resolve()
@@ -33,6 +35,9 @@ def print_logo(fontpath1, fontpath2,fontsize=30, width = 500,height = 200, white
 
     fontname1 = os.path.basename(fontpath1).split('.ttf')[0]
     fontname2 = os.path.basename(fontpath2).split('.ttf')[0]
+    if os.path.exists(f"pngs/{fontname1}+{fontname2}.png"):
+        print(f"Image pngs/{fontname1}+{fontname2}.png already exists. Skipping...")
+        return -1
     # get the info on the font
     otfinfo1 = subprocess.check_output(f'otfinfo --info "{fontpath1}"', shell=True).decode("utf-8") 
     otfinfo2 = subprocess.check_output(f'otfinfo --info "{fontpath2}"', shell=True).decode("utf-8") 
@@ -71,9 +76,8 @@ def print_logo(fontpath1, fontpath2,fontsize=30, width = 500,height = 200, white
     subprocess.call(
         f'inkscape  "pathsvg/{fontname1}+{fontname2}.svg" -o "pngs/{fontname1}+{fontname2}.png"', shell=True
     )
-    # add white background
-    if white:
-        subprocess.call(
+    
+    subprocess.call(
         f'convert -flatten  "pngs/{fontname1}+{fontname2}.png" "pngs/{fontname1}+{fontname2}.png"', shell=True
     )
 
