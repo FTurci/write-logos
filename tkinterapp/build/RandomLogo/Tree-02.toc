@@ -1,5 +1,0 @@
-('/Users/francesco/.local/lib/python3.7/site-packages/soupsieve-1.8-py3.7.egg',
- None,
- {'*.cpython-37m-darwin.so', 'EGG-INFO', '*.abi3.so', '*.so', '*.py', '*.pyc'},
- 'DATA',
- [])

@@ -47,6 +47,7 @@ statusbar = tkinter.Label(window)
 urls = get_urls()
 path = '/Users/francesco/Pictures/me.JPG'          
 print(urls)
+
 which = random.randint(0, len(urls))
 # fname = 'temp-logo-extemporanea.png'
 
