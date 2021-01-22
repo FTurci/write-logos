@@ -5,10 +5,6 @@ Questo è un programma per ottenere un logo random in formato PNG, a partire dal
 
 Il programma è una semplice interfaccia `Tkinter`.
 
-## Programma pre-compilato
-
-Una versione pre-compilata per MacOS X del programma è in `dist`.
-
 
 ## Codice sorgente
 
@@ -24,14 +20,6 @@ Per eseguire il programma è quindi sufficiente eseguire
 
 ```
 python RandomLogo.py         
-```
-
-## Generare altre versioni pre-compilate su altri OS
-
-`PyInstaller` può generare altre versioni eseguibili su altre piattaforme. Il comando che ho usato su Mac OS X è
-
-```
-pyinstaller --onefile RandomLogo.py
 ```
 
 ### Note
